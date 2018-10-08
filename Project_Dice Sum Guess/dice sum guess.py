@@ -160,7 +160,7 @@ while True:
     else:
         print("\nComputer win this round")
         c=c+1
-    print("Do YOu Want to Play Again")
+    print("Do You Want to Play Again(Y/N)")
     ans=input()
     ans1=ans.lower()
     while ans1!="y" and ans1!="n":
